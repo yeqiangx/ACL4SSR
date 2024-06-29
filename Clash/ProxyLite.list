@@ -468,8 +468,8 @@ DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
 # Zoom
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,zoomgov.com
+#DOMAIN-SUFFIX,zoom.us
+#DOMAIN-SUFFIX,zoomgov.com
 
 #飞流直播
 DOMAIN-SUFFIX,neulion.com
