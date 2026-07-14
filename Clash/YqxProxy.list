@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,webcamtests.com
 
-DOMAIN-SUFFIX,citrix.com
-DOMAIN-SUFFIX,cloud.com
-DOMAIN-SUFFIX,goworkspace.com.cn
-DOMAIN-SUFFIX,workspace.com
+#DOMAIN-SUFFIX,citrix.com
+#DOMAIN-SUFFIX,cloud.com
+#DOMAIN-SUFFIX,goworkspace.com.cn
+#DOMAIN-SUFFIX,workspace.com
